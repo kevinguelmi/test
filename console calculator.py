@@ -14,7 +14,7 @@ print("select operation")
 print("1.add")
 print("2.subtract")
 print("3.multiply")
-print("4.divide")
+print("4.divide.")
 
 while True:
     choice = input("select 1/2/3/4 = ")
